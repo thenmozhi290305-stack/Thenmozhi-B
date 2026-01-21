@@ -1,0 +1,7 @@
+{
+  "name": "Thenmozhi B - Professional Portfolio",
+  "description": "A high-end professional portfolio for Thenmozhi B, showcasing academic excellence in Computer Science, technical skills, and certifications.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
